@@ -16,13 +16,28 @@
 ## Business process improvement
 ### Scrum/Kanban
 ### Bizagi
-# Skills I have
-## Analysis
+# Skills I have (https://pm-training.net/agile-project-manager-skills/)
+## Analytic mindset
+## Problem solving
 ## Servant-leader
 ## Goal-oriented
 ## Stakeholders management
 ## Strategic vision
 ## Team coaching/empowering
 ## Planning
+## Business Case Development
+## Continuous Process Improvement/ Process Analysis
+## Value-Based Analysis
+## Failure Modes and Alternatives
+## Project Management
 # Projects I develop(ed)
+## Knowledge management (2018-2020)
+## Digital Transformation and Knowledge management (2020-current)
+### Digital strategy
+### Project Governance
+### Digital processess
+### Digital Training/Coaching
+### Knowledge Management
+### Digital reporting
+### 
 -->
