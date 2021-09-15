@@ -6,16 +6,23 @@
 - 💬 Ask me about whatever you want. I'm a white belt on everything, but I know enough of quite a lot of things to get you pointed either in the right direction, or to a creative solution. "I don't know, but..." is my most common answer.
 
 <!--
-**jaume-rsl/jaume-rsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Index
+# Toolkit summary
+# How I use my toolkit
+## Data
+### Power BI
+### Python
+### Excel
+## Business process improvement
+### Scrum/Kanban
+### Bizagi
+# Skills I have
+## Analysis
+## Servant-leader
+## Goal-oriented
+## Stakeholders management
+## Strategic vision
+## Team coaching/empowering
+## Planning
+# Projects I develop(ed)
 -->
