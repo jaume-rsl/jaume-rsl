@@ -19,8 +19,9 @@
 [![Power BI](https://github.com/jaume-rsl/jaume-rsl/blob/2435fc51dd61ce5751d2701a33b4641ce2986fd0/images/power-bi.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Power%20BI/README.md)&nbsp;&nbsp;&nbsp;
 [![Python](https://github.com/jaume-rsl/jaume-rsl/blob/b40693488e368739332a4eca5656bdb717910a0b/images/python.png)](https://www.kaggle.com/jaumerossello/code?scroll=true)&nbsp;&nbsp;&nbsp;
 
-## Cloud
-[![NextCloud](https://github.com/jaume-rsl/jaume-rsl/blob/44c2eea04c21b84e16fbf7832dc69b3005277ce5/images/nextcloud.png)](https://try.nextcloud.com/)
+## Cloud/Colaboration
+[![NextCloud](https://github.com/jaume-rsl/jaume-rsl/blob/44c2eea04c21b84e16fbf7832dc69b3005277ce5/images/nextcloud.png)](https://try.nextcloud.com/)&nbsp;&nbsp;&nbsp;
+![Git](https://github.com/jaume-rsl/jaume-rsl/blob/cad2117ad6da26a62b773635defbc2b6d3f79a39/images/git.png)&nbsp;&nbsp;&nbsp;
 
 ## Office
 ![MS-Office](https://github.com/jaume-rsl/jaume-rsl/blob/3416e9a051eb286025baf3094c6435cf5e1321a8/images/MS-office.jpg)&nbsp;&nbsp;&nbsp;
