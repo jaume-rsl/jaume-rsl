@@ -8,7 +8,7 @@
 # Toolkit summary
 ## ETL
 |![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)|
-![Python](https://github.com/jaume-rsl/jaume-rsl/blob/b40693488e368739332a4eca5656bdb717910a0b/images/python.png)
+![Python](https://github.com/jaume-rsl/jaume-rsl/blob/b40693488e368739332a4eca5656bdb717910a0b/images/python.png)|
 ## Data Visualization
 
 ## Cloud
