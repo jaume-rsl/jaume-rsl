@@ -7,10 +7,11 @@
 
 # Toolkit summary
 ## ETL
-![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)&nbsp;&nbsp;&nbsp;
+[![Power query](https://github.com/jaume-rsl/jaume-rsl/blob/a0478bc74eec36c529490f50f97d6d1b87e5a871/images/power-query.jpg)](https://github.com/jaume-rsl/Portfolio/blob/63220bf625d3fce3f0baca81f30e6fa6bea199ae/Power%20BI/18%20-%20Dataset%20Health.jpg)&nbsp;&nbsp;&nbsp;
+[![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Excel/README.md)&nbsp;&nbsp;&nbsp;
 
 ## Data Analysis
-![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)&nbsp;&nbsp;&nbsp;
+[![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Excel/README.md)&nbsp;&nbsp;&nbsp;
 [![Python](https://github.com/jaume-rsl/jaume-rsl/blob/b40693488e368739332a4eca5656bdb717910a0b/images/python.png)](https://www.kaggle.com/jaumerossello/code?scroll=true)&nbsp;&nbsp;&nbsp;
 
 ## Data Visualization
