@@ -9,7 +9,7 @@
 ## ETL
 [![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Excel/README.md)&nbsp;&nbsp;&nbsp;
 [![Power query](https://github.com/jaume-rsl/jaume-rsl/blob/a0478bc74eec36c529490f50f97d6d1b87e5a871/images/power-query.jpg)](https://github.com/jaume-rsl/Portfolio/blob/63220bf625d3fce3f0baca81f30e6fa6bea199ae/Power%20BI/18%20-%20Dataset%20Health.jpg)&nbsp;&nbsp;&nbsp;
-[![SQL](https://github.com/jaume-rsl/jaume-rsl/blob/3416e9a051eb286025baf3094c6435cf5e1321a8/images/sql.png)](https://github.com/jaume-rsl/SQL/blob/main/README.md)&nbsp;&nbsp;&nbsp;
+[![SQL](https://github.com/jaume-rsl/jaume-rsl/blob/195dfb218b4c2f6c78727cd9cdad1494ab419695/images/sql.png)](https://github.com/jaume-rsl/SQL/blob/main/README.md)&nbsp;&nbsp;&nbsp;
 
 ## Data Analysis
 [![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Excel/README.md)&nbsp;&nbsp;&nbsp;
