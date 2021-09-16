@@ -5,9 +5,19 @@
 - 🤔 I’m looking for any advice that can make me a super data analyst.
 - 💬 Ask me about whatever you want. I'm a white belt on everything, but I know enough of quite a lot of things to get you pointed either in the right direction, or to a creative solution. "I don't know, but..." is my most common answer.
 
+# Toolkit summary
+## ETL
+![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)
+## Data Visualization
+
+## Cloud
+
+## Office
+
+
 <!--
 # Index
-# Toolkit summary
+# Toolkit summary                     -- DONE
 # How I use my toolkit
 ## Data
 ### Power BI
