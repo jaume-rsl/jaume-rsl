@@ -6,7 +6,7 @@
 - 💬 Ask me about whatever you want. I'm a white belt on everything, but I know enough of quite a lot of things to get you pointed either in the right direction, or to a creative solution. "I don't know, but..." is my most common answer.
 
 1. [Toolkit Summary](#Toolkit-summary)  
-2. [Tools skill level](#Tools-skill-level)
+2. [Tools Skill Level](#Tools-skill-level)
 
 
 
@@ -57,6 +57,13 @@
 [MS-Office, OnlyOffice and LibreOffice](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftoffice)  
 
 
+
+| SK1 | SK2 | SK3 | SK4
+| --- | --- | --- | --- |
+| git status | Enumera todos los archivos nuevos o modificados | | |
+| git diff | Muestra las diferencias de archivo que no han sido preparadas | | |
+
+
 <!--
 # Index
 # Toolkit summary                     -- DONE
@@ -68,7 +75,7 @@
 ## Business process improvement
 ### Scrum/Kanban
 ### Bizagi
-# Skills I have (https://pm-training.net/agile-project-manager-skills/)
+# Skills I have (https://pm-training.net/agile-project-manager-skills/) 
 ## Analytic mindset
 ## Problem solving
 ## Servant-leader
