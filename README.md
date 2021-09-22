@@ -65,7 +65,7 @@
 | Business Case Development | Process Analysis | Value-Based Analysis | Failure Modes and Alternatives |
 | Continuous Process Improvement | Project Management |||
 
-See how I apply them [**HERE**](https://github.com/jaume-rsl/Portfolio/blob/65cae8fd10e2ee9e5c002a876729e3be74fc41ee/Skills/README.md)  
+**AND** see how I apply them [**HERE**](https://github.com/jaume-rsl/Portfolio/blob/65cae8fd10e2ee9e5c002a876729e3be74fc41ee/Skills/README.md)  
 
 
 
