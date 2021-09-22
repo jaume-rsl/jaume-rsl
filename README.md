@@ -36,7 +36,7 @@
 ![LibreOffice](https://github.com/jaume-rsl/jaume-rsl/blob/3416e9a051eb286025baf3094c6435cf5e1321a8/images/LibreOffice.png)&nbsp;&nbsp;&nbsp;
 
 
-#Tools skill level  
+# Tools skill level  
 [Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftexcel)  
 [Power BI, Power Query and DAX](https://github.com/jaume-rsl/Portfolio/tree/main/Power%20BI)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=powerbi)  
 [Python](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=python)  
