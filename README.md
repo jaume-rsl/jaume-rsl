@@ -6,6 +6,7 @@
 - 💬 Ask me about whatever you want. I'm a white belt on everything, but I know enough of quite a lot of things to get you pointed either in the right direction, or to a creative solution. "I don't know, but..." is my most common answer.
 
 1. [Toolkit Summary](#Toolkit-summary)  
+2. [Tools skill level](#Tools-skill-level)
 
 
 
@@ -33,6 +34,19 @@
 ![MS-Office](https://github.com/jaume-rsl/jaume-rsl/blob/3416e9a051eb286025baf3094c6435cf5e1321a8/images/MS-office.jpg)&nbsp;&nbsp;&nbsp;
 ![OnlyOffice](https://github.com/jaume-rsl/jaume-rsl/blob/3416e9a051eb286025baf3094c6435cf5e1321a8/images/OnlyOffice.png)&nbsp;&nbsp;&nbsp;
 ![LibreOffice](https://github.com/jaume-rsl/jaume-rsl/blob/3416e9a051eb286025baf3094c6435cf5e1321a8/images/LibreOffice.png)&nbsp;&nbsp;&nbsp;
+
+
+#Tools skill level
+[Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftexcel)
+[Power BI, Power Query and DAX](https://github.com/jaume-rsl/Portfolio/tree/main/Power%20BI)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=powerbi)
+[Python](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=python)
+[SQL](https://github.com/jaume-rsl/SQL/blob/main/README.md)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=mysql)
+---
+[Nextcloud and Sharepoint]()&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=nextcloud)
+[Git](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=git)
+---
+[MS-Office, OnlyOffice and LibreOffice](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftoffice)
+
 
 <!--
 # Index
