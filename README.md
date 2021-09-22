@@ -56,12 +56,13 @@
 
 [MS-Office, OnlyOffice and LibreOffice](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftoffice)  
 
+# Skills I have
 
-
-| SK1 | SK2 | SK3 | SK4
+| Analytic mindset | Problem solving | Servant-leader | Team coaching/empowering |
 | --- | --- | --- | --- |
-| git status | Enumera todos los archivos nuevos o modificados | | |
-| git diff | Muestra las diferencias de archivo que no han sido preparadas | | |
+| Goal-oriented | Stakeholders management | Strategic vision | Planning |
+| Business Case Development | Process Analysis | Value-Based Analysis | Failure Modes and Alternatives |
+| Continuous Process Improvement | Project Management |||
 
 
 <!--
@@ -75,7 +76,7 @@
 ## Business process improvement
 ### Scrum/Kanban
 ### Bizagi
-# Skills I have (https://pm-training.net/agile-project-manager-skills/) 
+# Skills I have                       -- DONE (https://pm-training.net/agile-project-manager-skills/) 
 ## Analytic mindset
 ## Problem solving
 ## Servant-leader
