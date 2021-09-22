@@ -50,7 +50,7 @@
 
 [Nextcloud and Sharepoint]()&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=nextcloud)  
 
-[Git](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=git)  
+[Git](https://github.com/jaume-rsl?tab=repositories)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=git)  
 
 ---
 
