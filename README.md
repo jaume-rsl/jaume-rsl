@@ -39,12 +39,17 @@
 # Tools skill level  
 
 [Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftexcel)  
+
 [Power BI, Power Query and DAX](https://github.com/jaume-rsl/Portfolio/tree/main/Power%20BI)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=powerbi)  
+
 [Python](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=python)  
-[SQL](https://github.com/jaume-rsl/SQL/blob/main/README.md)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=mysql)  
----
+
+[SQL](https://github.com/jaume-rsl/SQL/blob/main/README.md)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=mysql) 
+
+---  
 
 [Nextcloud and Sharepoint]()&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=nextcloud)  
+
 [Git](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=git)  
 
 ---
