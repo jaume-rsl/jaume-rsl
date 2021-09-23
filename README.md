@@ -57,7 +57,7 @@
 
 [MS-Office, OnlyOffice and LibreOffice](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftoffice)  
 
-# Skills I Have  
+# Skills I Have
 
 | Analytic mindset | Problem solving | Servant-leader | Team coaching/empowering |
 | --- | --- | --- | --- |
