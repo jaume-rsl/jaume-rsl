@@ -8,7 +8,7 @@
 1. [Toolkit Summary](#Toolkit-summary)  
 2. [Tools Skill Level](#Tools-skill-level)
 3. [Skills I Have](#Skills-I-Have)
-4. [Projects I develop(ed)](#Projects-I-develop(ed))
+4. [Projects I develop(ed)](#Projects-I-developed)
     * [Knowledge Management (2018-2020)](#Knowledge-management-2018-2020)
     * [Digital Transformation and Knowledge Management (2020-current)](#Digital-Transformation-and-Knowledge-management-2020-current-)
 
