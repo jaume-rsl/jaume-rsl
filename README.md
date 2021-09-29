@@ -1,5 +1,3 @@
-[GOV](https://github.com/jaume-rsl/Portfolio/blob/main/Projects/Digital%20Transformation/README.md#project-governance)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on **digital transformation** and **data analysis**, mainly focused on logistics.
@@ -30,6 +28,11 @@
 [![Power BI](https://github.com/jaume-rsl/jaume-rsl/blob/2435fc51dd61ce5751d2701a33b4641ce2986fd0/images/power-bi.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Power%20BI/README.md)&nbsp;&nbsp;&nbsp;
 [![DAX](https://github.com/jaume-rsl/jaume-rsl/blob/a166d8da498093d8b8791f7f353f04b5333b3cfc/images/DAX.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Power%20BI/README.md)&nbsp;&nbsp;&nbsp;
 [![Python](https://github.com/jaume-rsl/jaume-rsl/blob/b40693488e368739332a4eca5656bdb717910a0b/images/python.png)](https://www.kaggle.com/jaumerossello/code?scroll=true)&nbsp;&nbsp;&nbsp;
+
+## Agile
+[![Scrum](https://github.com/jaume-rsl/jaume-rsl/blob/806e18710358d89dcf4ff6bf2a1c62eb6855ce30/images/sprint.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Projects/Digital%20Transformation/README.md#project-governance)&nbsp;&nbsp;&nbsp;
+[![Ikigai](https://github.com/jaume-rsl/jaume-rsl/blob/806e18710358d89dcf4ff6bf2a1c62eb6855ce30/images/ikigai.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Projects/Digital%20Transformation/README.md#project-governance)&nbsp;&nbsp;&nbsp;
+[![Kanban](https://github.com/jaume-rsl/jaume-rsl/blob/806e18710358d89dcf4ff6bf2a1c62eb6855ce30/images/kanban.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Projects/Digital%20Transformation/README.md#project-governance)&nbsp;&nbsp;&nbsp;
 
 ## Cloud/Colaboration
 [![NextCloud](https://github.com/jaume-rsl/jaume-rsl/blob/44c2eea04c21b84e16fbf7832dc69b3005277ce5/images/nextcloud.png)](https://try.nextcloud.com/)&nbsp;&nbsp;&nbsp;
