@@ -51,6 +51,7 @@
 |[Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)|![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftexcel)|
 |[Power BI, Power Query and DAX](https://github.com/jaume-rsl/Portfolio/tree/main/Power%20BI)| ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=powerbi)|
 |[Python](https://www.kaggle.com/jaumerossello/code)|  ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=python)|  
+|[R](https://www.kaggle.com/jaumerossello/code)|  ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=r)|  
 |[SQL](https://github.com/jaume-rsl/SQL/blob/main/README.md)| ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=mysql)|
 
 ---  
