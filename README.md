@@ -55,14 +55,16 @@
 
 ---  
 
-|[Nextcloud and Sharepoint]()| ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=nextcloud)|
+| | |
 |---|---|
+|[Nextcloud and Sharepoint]()| ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=nextcloud)|
 |[Git](https://github.com/jaume-rsl?tab=repositories)| ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=git)|
 
 ---
 
-|[MS-Office, OnlyOffice and LibreOffice](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)| ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftoffice)|
+| | |
 |---|---|
+|[MS-Office, OnlyOffice and LibreOffice](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)| ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftoffice)|
 
 # Skills I Have
 
