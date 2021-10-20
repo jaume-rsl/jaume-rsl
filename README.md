@@ -6,7 +6,7 @@
 - 💬 Ask me about whatever you want, whenever you want. I'm a white belt on everything, but I know enough of quite a lot of things to get you pointed either in the right direction, or to a creative solution. "I don't know, but..." is my most common answer.
 
 1. [Toolkit Summary](#Toolkit-summary)  
-2. [Tools Skill Level](#Tools-skill-level)
+2. [Tools Skill Assessment](#Tools-skill-assessment)
 3. [Skills I Have](#Skills-I-Have)
 4. [Projects I develop(ed)](#Projects-I-developed)
     * [Knowledge Management (2018-2020)](#Knowledge-management-2018-2020)
@@ -45,7 +45,7 @@
 ![LibreOffice](https://github.com/jaume-rsl/jaume-rsl/blob/3416e9a051eb286025baf3094c6435cf5e1321a8/images/LibreOffice.png)&nbsp;&nbsp;&nbsp;
 
 
-# Tools Skill Level  
+# Tools Skill Assessment  
 
 [Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftexcel)  
 
