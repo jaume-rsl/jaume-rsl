@@ -71,8 +71,9 @@
 
 # Skills I Have
 
-| Analytic mindset | Problem solving | Servant-leader | Team coaching/empowering |
+|   |   |   |   |
 | --- | --- | --- | --- |
+| Analytic mindset | Problem solving | Servant-leader | Team coaching/empowering |
 | Goal-oriented | Stakeholders management | Strategic vision | Planning |
 | Business Case Development | Process Analysis | Value-Based Analysis | Failure Modes and Alternatives |
 | Continuous Process Improvement | Project Management |||
