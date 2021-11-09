@@ -1,3 +1,5 @@
+[![Cert](https://github.com/jaume-rsl/jaume-rsl/blob/fd6536422deb3f97ad05c19996e1e550e5f43e7c/images/CERT-Associate-Data-Analyst-100x100.png)](https://www.credly.com/badges/3c90e5d4-8fa0-4d2d-ad4d-b18f830e6a3f/linked_in)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on **digital transformation** and **data analysis**, mainly focused on logistics.
