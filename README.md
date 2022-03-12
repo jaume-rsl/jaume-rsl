@@ -27,6 +27,7 @@
 [![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Excel/README.md)&nbsp;&nbsp;&nbsp;
 [![Python](https://github.com/jaume-rsl/jaume-rsl/blob/b40693488e368739332a4eca5656bdb717910a0b/images/python.png)](https://www.kaggle.com/jaumerossello/code?scroll=true)&nbsp;&nbsp;&nbsp;
 [![R](https://github.com/jaume-rsl/jaume-rsl/blob/cc9905bb0de20dfe559de86f03cb43f905a87887/images/R_logo.png)](https://www.kaggle.com/jaumerossello/code?scroll=true)&nbsp;&nbsp;&nbsp;
+[![Jupyter](https://github.com/jaume-rsl/jaume-rsl/blob/bf74656597e4fc8542b00b3e65ade7430bf6ee08/images/jupyter.png)]
 
 ## Data Visualization
 [![Power BI](https://github.com/jaume-rsl/jaume-rsl/blob/2435fc51dd61ce5751d2701a33b4641ce2986fd0/images/power-bi.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Power%20BI/README.md)&nbsp;&nbsp;&nbsp;
