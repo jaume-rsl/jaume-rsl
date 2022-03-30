@@ -88,7 +88,7 @@
 # Projects I develop(ed)
 ## [Data](https://github.com/jaume-rsl/Portfolio)
 ## Knowledge management (2018-2020)
-## [Digital Transformation and Knowledge management (2020-current)](https://github.com/jaume-rsl/Portfolio/blob/41b343b85303f757640999c2ff7e2e995da83a42/Projects/Digital%20Transformation/README.md)&nbsp;&nbsp;&nbsp; ![under_construction](https://github.com/jaume-rsl/jaume-rsl/blob/d2fe9e9e4d973e7dbbc99aa49dacb8dc324e8039/images/under_construction.png)
+## [Digital Transformation and Knowledge management (2020-current)](https://github.com/jaume-rsl/Portfolio/blob/6323128b41c8a6c6573b5983d2a701f781b3ea42/Projects/Digital%20Transformation/README.md)&nbsp;&nbsp;&nbsp; ![under_construction](https://github.com/jaume-rsl/jaume-rsl/blob/d2fe9e9e4d973e7dbbc99aa49dacb8dc324e8039/images/under_construction.png)
 
 <!--
 # Index
