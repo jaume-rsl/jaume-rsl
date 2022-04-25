@@ -26,14 +26,14 @@
 ## Data Analysis
 [![Excel](https://github.com/jaume-rsl/jaume-rsl/blob/cd225e88305ab5799c74e3956fd00e20ab96582d/images/Excel.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Excel/README.md)&nbsp;&nbsp;&nbsp;
 [![Python](https://github.com/jaume-rsl/jaume-rsl/blob/b40693488e368739332a4eca5656bdb717910a0b/images/python.png)](https://www.kaggle.com/jaumerossello/code?scroll=true)&nbsp;&nbsp;&nbsp;
-[![R](https://github.com/jaume-rsl/jaume-rsl/blob/cc9905bb0de20dfe559de86f03cb43f905a87887/images/R_logo.png)](https://www.kaggle.com/jaumerossello/code?scroll=true)&nbsp;&nbsp;&nbsp;
+[![R](https://github.com/jaume-rsl/jaume-rsl/blob/cc9905bb0de20dfe559de86f03cb43f905a87887/images/R_logo.png)](https://www.kaggle.com/code/jaumerossello/dc-accidents-in-uk)&nbsp;&nbsp;&nbsp;
 [![Jupyter](https://github.com/jaume-rsl/jaume-rsl/blob/bf74656597e4fc8542b00b3e65ade7430bf6ee08/images/jupyter.png)](https://jupyter.org/)
 
 ## Data Visualization
 [![Power BI](https://github.com/jaume-rsl/jaume-rsl/blob/2435fc51dd61ce5751d2701a33b4641ce2986fd0/images/power-bi.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Power%20BI/README.md)&nbsp;&nbsp;&nbsp;
 [![DAX](https://github.com/jaume-rsl/jaume-rsl/blob/a166d8da498093d8b8791f7f353f04b5333b3cfc/images/DAX.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Power%20BI/README.md#dax-snippets)&nbsp;&nbsp;&nbsp;
 [![Python](https://github.com/jaume-rsl/jaume-rsl/blob/b40693488e368739332a4eca5656bdb717910a0b/images/python.png)](https://www.kaggle.com/jaumerossello/code?scroll=true)&nbsp;&nbsp;&nbsp;
-[![R](https://github.com/jaume-rsl/jaume-rsl/blob/cc9905bb0de20dfe559de86f03cb43f905a87887/images/R_logo.png)](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp;&nbsp;
+[![R](https://github.com/jaume-rsl/jaume-rsl/blob/cc9905bb0de20dfe559de86f03cb43f905a87887/images/R_logo.png)](https://www.kaggle.com/code/jaumerossello/dc-accidents-in-uk)&nbsp;&nbsp;&nbsp;
 
 ## Agile
 [![Scrum](https://github.com/jaume-rsl/jaume-rsl/blob/806e18710358d89dcf4ff6bf2a1c62eb6855ce30/images/sprint.png)](https://github.com/jaume-rsl/Portfolio/blob/main/Projects/Digital%20Transformation/README.md#project-governance)&nbsp;&nbsp;&nbsp;
@@ -57,7 +57,7 @@
 |[Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)|![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftexcel)|
 |[Power BI, Power Query and DAX](https://github.com/jaume-rsl/Portfolio/tree/main/Power%20BI)| ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=powerbi)|
 |[Python](https://www.kaggle.com/jaumerossello/code)|  ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=python)|  
-|[R](https://www.kaggle.com/jaumerossello/code)|  ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=r)|  
+|[R](https://www.kaggle.com/code/jaumerossello/dc-accidents-in-uk)|  ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=r)|  
 |[SQL](https://github.com/jaume-rsl/SQL/blob/main/README.md)| ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=mysql)|
 
 ---  
